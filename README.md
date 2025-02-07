@@ -21,7 +21,7 @@
 
 ---
 
-## 🔧 Tech Toolbox
+## 🧰 Languages and Tools
 
 <p align="left">
   <!-- You can find more badges at https://shields.io or https://github.com/alexandresanlim/Badges4-README.md-Profile -->
