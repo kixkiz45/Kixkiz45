@@ -43,16 +43,6 @@
 
 
 
-## 🚀 Projects
-
-<!-- Include some pinned project cards directly from GitHub -->
-<!-- Replace 'project-1' with your repo names -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=[YourUserName]&repo=project-1&theme=radical)](https://github.com/[YourUserName]/project-1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=[YourUserName]&repo=project-2&theme=radical)](https://github.com/[YourUserName]/project-2)
-
----
-
-
 
 ## 🌐 Connect With Me
 
