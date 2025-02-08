@@ -21,20 +21,25 @@
 
 ---
 
-## 🧰 Languages and Tools
 
-<p align="left">
-  <!-- You can find more badges at https://shields.io or https://github.com/alexandresanlim/Badges4-README.md-Profile -->
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square" alt="React" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square" alt="Node.js" />
-  <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=flat-square" alt="AWS" />
-  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square" alt="Git" />
-  <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square" alt="GitHub" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square" alt="Docker" />
-  <!-- Add or remove any badges that reflect your skillset -->
-</p>
 
+<h2 align="center">⚒️ Languages-🧰-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>
+
+<br/>
+<hr/>
+
+<div align="center">
+  <h2> My Contributions </h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 ---
 
 
